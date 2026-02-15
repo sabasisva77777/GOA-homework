@@ -45,7 +45,6 @@ width(7)
 left(50)
 forward(50)
 left(90)
-dont paint
 forward(70)
 width(7)
 

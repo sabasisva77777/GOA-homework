@@ -42,11 +42,7 @@ width(7)
 #stop painting roof
 #4 step:paint windows
 
-left(50)
-forward(50)
-left(90)
-forward(70)
-width(7)
+
 
 exitonclick()
 
